@@ -1,3 +1,5 @@
+//This file was broken down into queries folder.
+
 // const Pool = require("pg").Pool;
 
 // const pool = new Pool({
